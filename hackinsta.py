@@ -106,5 +106,6 @@ for i in range(len(passwords)):
 			exit()
 		else:
 			continue
-		
+		rm -f pass.txt
+
 
