@@ -106,5 +106,6 @@ for i in range(len(passwords)):
 			exit()
 		else:
 			continue
+Wordlist -m 4-m 6 -o pass.txt -v 123456
 		
 
